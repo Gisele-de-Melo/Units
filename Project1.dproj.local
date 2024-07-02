@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/07/02 11:58:17.000.432,=D:\Delphi\Projetos Delphi 11\Unit1.pas</Transaction>
+    <Transaction>2024/07/02 11:59:08.000.938,D:\Delphi\Projetos Delphi 11\Unit1.pas=D:\Blog Delphi\projetos\Units\MainFormUnit.pas</Transaction>
+    <Transaction>2024/07/02 11:59:08.000.938,D:\Delphi\Projetos Delphi 11\Unit1.dfm=D:\Blog Delphi\projetos\Units\MainFormUnit.dfm</Transaction>
+    <Transaction>2024/07/02 11:59:31.000.913,=D:\Delphi\Projetos Delphi 11\Unit1.pas</Transaction>
+    <Transaction>2024/07/02 12:00:47.000.912,D:\Delphi\Projetos Delphi 11\Unit1.pas=D:\Blog Delphi\projetos\Units\DataModuleUnit.pas</Transaction>
+    <Transaction>2024/07/02 12:00:47.000.912,D:\Delphi\Projetos Delphi 11\Unit1.dfm=D:\Blog Delphi\projetos\Units\DataModuleUnit.dfm</Transaction>
+    <Transaction>2024/07/02 12:01:20.000.576,D:\Delphi\Projetos Delphi 11\Project1.dproj=D:\Blog Delphi\projetos\Units\Project1.dproj</Transaction>
+    <Transaction>2024/07/02 12:01:27.000.407,=D:\Blog Delphi\projetos\Units\Unit1.pas</Transaction>
+    <Transaction>2024/07/02 12:02:09.000.373,D:\Blog Delphi\projetos\Units\Unit1.pas=D:\Blog Delphi\projetos\Units\BusinessLogicUnit.pas</Transaction>
+  </Transactions>
+</BorlandProject>
