@@ -12,4 +12,4 @@ O conteúdo desse código é simplesmente em caráter de aprendizado, portanto, 
 # Blog
 - Content available at:
 - Conteúdo disponível em:
-  https://codedelphi.com/units-em-delphi/
+  https://www.codedelphi.com/2025/04/units-em-delphi.html
